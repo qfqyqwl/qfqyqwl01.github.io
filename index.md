@@ -37,3 +37,13 @@ Gonglong Chen is currently a fourth year PhD student at the College of Computer 
 *   ICDCS 2017 travel grant
 
 
+# Uesful Security Links
+
+[Wenrui Diao](https://diaowenrui.github.io/), [Yajin Zhou](http://www.yajin.org/#), [Guofei Gu](http://faculty.cs.tamu.edu/guofei/), [Kehuan Zhang](https://staff.ie.cuhk.edu.hk/~khzhang/), [Chao Zhang (Blue-Lotus CTF team)](http://chao.100871.net/), [Bihuan Chen (FuDan)](https://chenbihuan.github.io/),   
+[Vulnerability-Exploit-Fuzz-Mitigation-v1.3](https://desword.github.io/image/Vulnerability-Exploit-Fuzz-Mitigation-v1.3.jpeg)
+
+# Intesting Links
+
+[Children at Home 2018](http://www.iqiyi.com/lib/m_216427614.html?src=search), [Children at Home 2018_vip](http://www.iqiyi.com/lib/m_217874014.html?src=search), [The martial arts and legends 2006](http://www.iqiyi.com/lib/m_200032714.html?src=search),   
+[Ipartment Season 1](http://www.iqiyi.com/lib/m_200052214.html?src=search), [Ipartment Season 2](http://www.iqiyi.com/a_19rrjaf9kd.html), [Ipartment Season 3](http://v.qq.com/zt/inpartmentseason.html), [Ipartment Season 4_vip](http://www.iqiyi.com/lib/m_200052614.html?src=search)
+
